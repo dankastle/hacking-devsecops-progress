@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2026-04-14 12:51",
+    "day": 1,
+    "completed": [
+      "setup-repo",
+      " libro-cap1",
+      " bandit-0-5",
+      " basic-enum-py",
+      " gcp-vm-creada"
+    ],
+    "notes": "Primer script Python de enumeration listo",
+    "hours": 3.0
+  },
+  {
+    "date": "2026-04-14 12:52",
+    "day": 1,
+    "completed": [
+      "setup-repo",
+      "libro-cap1",
+      "bandit-0-5",
+      "basic-enum-py",
+      "gcp-vm-creada"
+    ],
+    "notes": "D\u00eda 1 completado. Python priority activada.",
+    "hours": 3.0
+  }
+]
